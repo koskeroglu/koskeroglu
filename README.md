@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @koskeroglu
 - 👀 I’m interested in web development
--
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me karsiyaka_1995@hotmail.com
 
 <!---

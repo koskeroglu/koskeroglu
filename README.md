@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koskeroglu
+- 👋 Hi, I’m @raeven
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on front-end projects.
